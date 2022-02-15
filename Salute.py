@@ -8,6 +8,8 @@ def Corti():
   return True
 
 def Solari():
+  print("Questa porzione del Programma e' gestita da Rocco")
+
   return True
 
 def Esci():
